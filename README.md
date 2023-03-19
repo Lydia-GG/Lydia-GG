@@ -9,7 +9,7 @@ My skills: HTML / CSS/ JS / Node / REACT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lydia-GG&layout=compact)]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lydia-GG)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lydia-GG)]
 
 - 🔭 I’m currently working on this page. 
 
