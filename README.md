@@ -5,7 +5,7 @@
 
 <!-- I am looking to prove my coding and software skills through an entry-level position in an organization that ‎will ‎effectively utilize my experience and offers ‎an opportunity for my career, hoping to achieve my goals ‎throw your respected organization. -->
 
-My skills: HTML / CSS / JavaScript / Nodejs / React / Python / MySQL /
+My skills: HTML / CSS / JavaScript / Nodejs / React / Python / MySQL / M
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lydia-GG&layout=compact)
 
